@@ -35,13 +35,14 @@ mechanism for the numerical possibility of releasable values for
 open source linear sub-sequences to analyze the constructive
 formulations for support numeric base support using input form.
 
+```latex
 \begin{enumerate}
     \item The normality's of a matrix
     \item The technology conditions of a matrix
     \item The movement of the public role of a matrix
     \item Departure regulations on the way matrix
 \end{enumerate}
-
+```
 
 The induct itself for explanations of clarifications of the math
 measures for highlights of the days when the equations are jubilant
